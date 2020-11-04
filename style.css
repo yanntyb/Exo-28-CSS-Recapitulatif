@@ -1,0 +1,28 @@
+#p1 {
+    color: blue;
+}
+
+#p2 {
+    font-family: Courier;
+}
+
+#p3 {
+    text-align: center;
+}
+
+#p4 {
+    font-size: 50px;
+}
+
+#div1 {
+    background-color: yellow;
+}
+
+#div2 {
+    text-align: center;
+}
+
+#div3 {
+    border: solid 1px blue;
+    min-height: 200px;
+}
