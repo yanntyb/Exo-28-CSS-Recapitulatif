@@ -2,7 +2,7 @@
 
 ## Dans l'attribut style
 
-    1 - Utiliser l'attribut html correct et le css adéquat pour que la couleur de texte du  soit bleu.
+    1 - Utiliser l'attribut html correct et le css adéquat pour que la couleur de texte du 1 soit bleu.
     2 - Utiliser du css pour que la police de caractere utilisée par le paragraphe soit "courier"
     3 - Utiliser du css pour aligner le texte du paragraphe au centre
     4 - Utiliser du css pour que la taille du texte soit de 50 pixels.
